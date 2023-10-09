@@ -1,4 +1,4 @@
-We are trying to make a simple 2d physics engine. We had a bad programmer take a crack at it and they sort of got it working but it has bugs and no documentation. They are no longer with the company and none of us know how their code works. We would like you to:
+This is a hypothetical scenario: We are trying to make a simple 2d physics engine. We had a programmer make an initial attempt but the resulting code has bugs and no documentation. The original programmer is no longer with the company and none of us know how their code works. We would like you to:
 
 * Fix the bugs such that the circles and rectangles draw and move properly. Then make them start moving randomly around the screen.
 * Implement the checkCollisions function such that it returns true if any shapes collide with each other and the code stops running
